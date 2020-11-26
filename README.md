@@ -1,4 +1,4 @@
-# GestaltHomer
+# Homer
 
 
 ![GestaltHomer](./assets/img/screen.png)
